@@ -19,4 +19,4 @@ A React-based Single-Page Application(SPA) about Avengers
 
 ## Start:
   - Code runnable with `npm install; npm run build; npx serve -s build` in project directory
-  - Run 'npm start' and go to localhost:3000
+  - Just run 'npm start' and go to http://localhost:3000
