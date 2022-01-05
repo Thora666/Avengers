@@ -18,4 +18,5 @@ A React-based Single-Page Application(SPA) about Avengers
   - Using Axios to fetch data from Marvel Developer API
 
 ## Start:
-  - Code should be runnable with `npm install; npm run build; npx serve -s build` in project directory
+  - Code runnable with `npm install; npm run build; npx serve -s build` in project directory
+  - Run 'npm start' and go to localhost:3000
